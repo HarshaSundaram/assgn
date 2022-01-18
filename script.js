@@ -37,7 +37,7 @@ if(res.test(mail.value)!="1")
     var phone = document.getElementById("phno");
     var spswd = document.getElementById("inputPassword4");
     var scpswd = document.getElementById("inputrePassword4");
-    var form=document.querySelector("formcontainer");
+    var form=document.querySelector("form-container");
   
 //password criteria checking
 var upper=document.getElementById("upper");
