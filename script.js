@@ -46,7 +46,7 @@ var special=document.getElementById("special");
 var number=document.getElementById("number");
 var length=document.getElementById("length");
 
-    function signvalidate()
+ function signvalidate()
     {
 //username & mail checking
          if(uname.value.trim()===""){
